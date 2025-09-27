@@ -31,4 +31,3 @@ For each generation:
 
 > Tip: While paused, paint patterns by clicking cells, then press **Play**.
 
-## Project structure
